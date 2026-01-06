@@ -56,9 +56,9 @@ Repository ini berisi:
 ## 📞 Kontak <!--085719391989-->
 Untuk diskusi atau kolaborasi:
 
-- 📧 Email : (novitawindawatihs@gmail.com)
-- 💼 LinkedIn : (Jessica Nofa Evelina)
-- 🌐 Website / Portofolio : (opsional)
+- 📧 Email : novitawindawatihs@gmail.com
+- 💼 LinkedIn : Jessica Nofa Evelina
+- 🌐 Website / Portofolio : -
 
 ---
 
